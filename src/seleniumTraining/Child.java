@@ -17,14 +17,35 @@ public class Child {
 		
 		System.out.println("Child updated 4");
 		System.out.println("Child updated 5");
+		System.out.println("Child updated 4");
+		System.out.println("Child updated 5");
+		System.out.println("Child updated 4");
+		System.out.println("Child updated 5");
+		
+		System.out.println("Child updated 4");
+		System.out.println("Child updated 5");
 	}
 	
 	void m1() {
 		System.out.println("m1 method");
+		System.out.println("Child updated 4");
+		System.out.println("Child updated 5");
+		System.out.println("Child updated 4");
+		System.out.println("Child updated 5");
+		
+		System.out.println("Child updated 4");
+		System.out.println("Child updated 5");
 	}
 	
 	void m2() {
 		System.out.println("m2 method");
+		System.out.println("Child updated 4");
+		System.out.println("Child updated 5");
+		System.out.println("Child updated 4");
+		System.out.println("Child updated 5");
+		
+		System.out.println("Child updated 4");
+		System.out.println("Child updated 5");
 	}
 
 }
